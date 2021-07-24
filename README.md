@@ -1,4 +1,5 @@
 # CoWin-API
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/requests)
 
 Hi, I have created automated system to detect the availability of COVID-19 vaccine shots and send an SMS Alert to your Phone.
 
